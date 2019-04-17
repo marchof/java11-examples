@@ -30,7 +30,7 @@ public class PrivateInterfaceMethods {
 		};
 		
 		controller.start();
-		controller.start();
+		controller.stop();
 	}
 
 }
